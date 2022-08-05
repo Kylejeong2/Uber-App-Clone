@@ -70,7 +70,6 @@
 * [React Native](https://reactnative.dev/)
 * [TailWind](https://tailwindcss.com/)
 * [Redux](https://redux.js.org/)
-* [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
