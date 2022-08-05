@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src=images/screenshot.png width="80" height="300"/>
+<img src=images/screenshot.png width="300" height="600"/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
