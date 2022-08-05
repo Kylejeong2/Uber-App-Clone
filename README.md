@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+<img src=images/screenshot.png width="80" height="300"/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@ Make sure Yarn version is up to date.
 
 ### Installation
 
-1. Get a free API Key at [Google Cloud Platform](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1011347&utm_content=text-ad-none-any-DEV_c-CRE_491349594127-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Google%20Cloud%20Platform%20Core-KWID_43700064423315751-kwd-26415313501&utm_term=KW_google%20cloud%20platform-ST_google%20cloud%20platform&gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfheUdc_NxykUkd7X9pkRmgDsa74iMuQ5u1yroqPDkVny6hOgSf1NOYaArEuEALw_wcB&gclsrc=aw.ds) *Get the Directions API, Places API. and Distance Matrix API
+1. Get a free API Key at [Google Cloud Platform](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1011347&utm_content=text-ad-none-any-DEV_c-CRE_491349594127-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Google%20Cloud%20Platform%20Core-KWID_43700064423315751-kwd-26415313501&utm_term=KW_google%20cloud%20platform-ST_google%20cloud%20platform&gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfheUdc_NxykUkd7X9pkRmgDsa74iMuQ5u1yroqPDkVny6hOgSf1NOYaArEuEALw_wcB&gclsrc=aw.ds) * Get the Directions API, Places API. and Distance Matrix API
 2. Clone the repo
    ```sh
    git clone https://github.com/Kylejeong2/Uber-App-Clone.git
